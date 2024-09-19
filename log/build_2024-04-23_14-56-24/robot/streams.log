@@ -1,0 +1,20 @@
+[0.466s] Invoking command in '/home/sfw/Desktop/ros2_ws/src/robot': PYTHONPATH=/home/sfw/Desktop/ros2_ws/build/robot/prefix_override:/home/sfw/Desktop/ros2_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot build --build-base /home/sfw/Desktop/ros2_ws/build/robot/build install --record /home/sfw/Desktop/ros2_ws/build/robot/install.log --single-version-externally-managed install_data
+[0.655s] running egg_info
+[0.656s] writing ../../build/robot/robot.egg-info/PKG-INFO
+[0.656s] writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+[0.656s] writing entry points to ../../build/robot/robot.egg-info/entry_points.txt
+[0.656s] writing requirements to ../../build/robot/robot.egg-info/requires.txt
+[0.656s] writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+[0.658s] reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.665s] writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[0.666s] running build
+[0.666s] running build_py
+[0.666s] running install
+[0.667s] running install_lib
+[0.670s] running install_data
+[0.671s] running install_egg_info
+[0.674s] removing '/home/sfw/Desktop/ros2_ws/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.674s] Copying ../../build/robot/robot.egg-info to /home/sfw/Desktop/ros2_ws/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+[0.676s] running install_scripts
+[0.699s] writing list of installed files to '/home/sfw/Desktop/ros2_ws/build/robot/install.log'
+[0.718s] Invoked command in '/home/sfw/Desktop/ros2_ws/src/robot' returned '0': PYTHONPATH=/home/sfw/Desktop/ros2_ws/build/robot/prefix_override:/home/sfw/Desktop/ros2_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot build --build-base /home/sfw/Desktop/ros2_ws/build/robot/build install --record /home/sfw/Desktop/ros2_ws/build/robot/install.log --single-version-externally-managed install_data
